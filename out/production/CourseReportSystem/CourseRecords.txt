@@ -1,0 +1,15 @@
+Number: CSE 2102
+Name: Introduction to Software Engineering
+Instructor: Demurjian, Steven; 67890; 100,000; 1990; Professor of Computer Science
+Instructor: Demurjian, Steven; 67890; 100,000; 1990; Professor of Computer Science
+Instructor: Swap, Steven; 67890; 100,000; 1990; Professor of Computer Science
+Staff: Smith, Paul; 34567; 10,000; 2017; 2
+Staff: Smith, Paul; 34567; 10,000; 2017; 2
+Staff: Huang, Trevor; 23567; 10,000; 2021; 2
+Staff: Warnken, Julia; 12789; 15,000; 2016; 2
+Undergraduate: Marquis, Lewis; 12345; SENIOR
+Undergraduate: Marquis, Lewis; 12345; SENIOR
+Undergraduate: Paige, Simonds; 54321; JUNIOR
+Graduate: Mark, Lewis; 12345; DOCTORAL
+Graduate: Mark, Lewis; 12345; DOCTORAL
+Graduate: Pai, Simonds; 54321; MASTERS
